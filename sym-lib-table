@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "ESP32-C3-MINI-1-N4")(type "Legacy")(uri "${KIPRJMOD}/Parts/ESP32-C3-MINI/ESP32-C3-MINI-1-N4.lib")(options "")(descr ""))
+  (lib (name "RJ9")(type "KiCad")(uri "${KIPRJMOD}/Parts/RJ9/RJ9.kicad_sym")(options "")(descr ""))
+  (lib (name "RS485_Transceiver")(type "Legacy")(uri "${KIPRJMOD}/Parts/RS485_tran/ADM3493ARZ.lib")(options "")(descr ""))
+)
