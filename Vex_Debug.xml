@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/home/ryan/Documents/kicad/Vex_Debug/Vex_Debug.kicad_sch</source>
-    <date>Fri 28 Oct 2022 09:38:11 PM EDT</date>
-    <tool>Eeschema (6.0.8)</tool>
+    <date>Mon 14 Nov 2022 07:40:26 PM EST</date>
+    <tool>Eeschema (6.0.9)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -29,7 +29,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c9b06d5e-4ecf-4dd2-ba6b-7237a6396775</tstamps>
     </comp>
@@ -38,7 +38,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>01433f31-d203-42fc-8f64-728b58c181bc</tstamps>
     </comp>
@@ -47,7 +47,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>79e810ef-5001-4208-99e1-9439ef1c4c9d</tstamps>
     </comp>
@@ -56,7 +56,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>98dd853c-f536-41de-b3ee-266449bc3df2</tstamps>
     </comp>
@@ -65,7 +65,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b6020378-33fc-4e5b-9317-5d7c428868ff</tstamps>
     </comp>
@@ -74,16 +74,34 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>981ef034-502f-4402-b63b-25e1257a8ece</tstamps>
+      <tstamps>26eda81c-aa09-49b9-8cea-209f0c193772</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b5dc275-39ef-40a4-b929-443f99807f1d</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62a7cf01-1dd7-412b-a4f2-4abcdabdfb16</tstamps>
     </comp>
     <comp ref="CONN1">
       <value>RJ9</value>
       <footprint>RJ9:RJ9_Jack</footprint>
       <libsource lib="RJ9" part="RJ9" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a19a6f96-f67e-49fa-9102-95ec32018ab0</tstamps>
     </comp>
@@ -92,7 +110,7 @@
       <footprint>Diode_SMD:D_SMA_Handsoldering</footprint>
       <libsource lib="Device" part="D_TVS" description="Bidirectional transient-voltage-suppression diode"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>940a27d2-b4fa-47d3-8a4a-387d4822a74a</tstamps>
     </comp>
@@ -101,7 +119,7 @@
       <footprint>Diode_SMD:D_SMA_Handsoldering</footprint>
       <libsource lib="Device" part="D_TVS" description="Bidirectional transient-voltage-suppression diode"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ad065a59-1f8e-41cd-805e-4dc013365184</tstamps>
     </comp>
@@ -110,7 +128,7 @@
       <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4bc531c1-d9c0-4bf2-9658-492def5930fe</tstamps>
     </comp>
@@ -119,7 +137,7 @@
       <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cb4d8ebf-828d-47fa-b76b-10925ff80725</tstamps>
     </comp>
@@ -128,7 +146,7 @@
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7189a421-590b-4ae1-aa3b-505834bfe83d</tstamps>
     </comp>
@@ -137,7 +155,7 @@
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b4eda988-6653-4e15-bf78-2c4fde65b44e</tstamps>
     </comp>
@@ -147,34 +165,16 @@
       <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
       <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6ffa29b3-aabc-4e5c-9926-dac3b9d6aab1</tstamps>
-    </comp>
-    <comp ref="JP1">
-      <value>SolderJumper_2_Open</value>
-      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
-      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>dc94bec8-b241-46c4-b84d-26837b2ab8f4</tstamps>
-    </comp>
-    <comp ref="JP2">
-      <value>SolderJumper_2_Open</value>
-      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
-      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>8cefee6d-e713-427f-810b-3f25ca765236</tstamps>
     </comp>
     <comp ref="R1">
       <value>120</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>09a24c2f-fd8c-4524-b725-7fc71fd0ee6c</tstamps>
     </comp>
@@ -183,7 +183,7 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e98423aa-4c84-47fd-947c-3eead68a7745</tstamps>
     </comp>
@@ -192,7 +192,7 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7c1eb650-99a1-41c8-8b7c-50a562142cf6</tstamps>
     </comp>
@@ -201,7 +201,7 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e49424b4-6def-43b4-861c-41fc29a16405</tstamps>
     </comp>
@@ -210,7 +210,7 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8b95445d-770d-4e26-873f-5e0201fc9f42</tstamps>
     </comp>
@@ -219,7 +219,7 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9ec05ff6-9579-4dd1-87d4-78a11adff23f</tstamps>
     </comp>
@@ -228,25 +228,52 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>75d79bf8-fdf7-423f-aaa7-b1bccdeed931</tstamps>
+      <tstamps>4fc32761-c987-4adb-ac90-79203e3dc9fd</tstamps>
     </comp>
     <comp ref="R8">
       <value>5.11K</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>ee392f87-6ca9-4a39-83fe-4407afc451de</tstamps>
+      <tstamps>effbc07d-e127-4f91-9432-f678bdff1a4c</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>5.11K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee49a5d1-86a7-4626-9b72-4018a921dd7f</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>RESET</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>034aa62e-ae54-4279-bdda-d0d6a4ebc8e4</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>BOOT</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a495535-27fd-4666-9e5d-17b5002ae9d1</tstamps>
     </comp>
     <comp ref="TP1">
       <value>TP_VIN</value>
       <footprint>TestPoint:TestPoint_Pad_D1.5mm</footprint>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>da580e2d-df82-4eb5-872d-62a3852b9de3</tstamps>
     </comp>
@@ -255,7 +282,7 @@
       <footprint>TestPoint:TestPoint_Pad_D1.5mm</footprint>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f0edf23c-6f05-4335-b6fa-7760cb1d0876</tstamps>
     </comp>
@@ -264,28 +291,18 @@
       <footprint>TestPoint:TestPoint_Pad_D1.5mm</footprint>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>799fcdf7-6266-42df-99c3-4234bbfa148e</tstamps>
     </comp>
     <comp ref="U1">
-      <value>ESP32-C3-MINI-1-N4</value>
-      <footprint>ESP32-C3-MINI:XCVR_ESP32-C3-MINI-1-N4</footprint>
-      <fields>
-        <field name="MANUFACTURER">Espressif Systems</field>
-        <field name="MAXIMUM_PACKAGE_HEIGHT">2.55mm</field>
-        <field name="PARTREV">v1.0</field>
-        <field name="STANDARD">Manufacturer Recommendations</field>
-      </fields>
-      <libsource lib="ESP32-C3-MINI-1-N4" part="ESP32-C3-MINI-1-N4" description=""/>
-      <property name="PARTREV" value="v1.0"/>
-      <property name="STANDARD" value="Manufacturer Recommendations"/>
-      <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.55mm"/>
-      <property name="MANUFACTURER" value="Espressif Systems"/>
+      <value>ESP32-C3-WROOM-02-N4</value>
+      <footprint>ESP32-C3-WROOM:ESP32-C3-WROOM-02-N4</footprint>
+      <libsource lib="ESP32-C3-WROOM" part="ESP32-C3-WROOM-02-N4" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>dc97b7c8-9fa8-4010-bb54-46df42fcd06d</tstamps>
+      <tstamps>59358f77-7786-454b-84b4-a8a14f1fbfdf</tstamps>
     </comp>
     <comp ref="U2">
       <value>NCP1117-3.3_SOT223</value>
@@ -293,7 +310,7 @@
       <datasheet>http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</datasheet>
       <libsource lib="Regulator_Linear" part="NCP1117-3.3_SOT223" description="1A Low drop-out regulator, Fixed Output 3.3V, SOT-223"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7b0eb8bd-e1b3-42f5-b022-b242b113ffd4</tstamps>
     </comp>
@@ -302,9 +319,18 @@
       <footprint>RS485_tran:SOIC127P600X175-8N</footprint>
       <libsource lib="RS485_Transceiver" part="ADM3493ARZ" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: Vex_Debug.kicad_sch"/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c4fab026-3bc8-4419-8c14-38586e00822e</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>FT234XD-R</value>
+      <footprint>USB-UART Bridge:FT234XD-R</footprint>
+      <libsource lib="FTDI" part="FT234XD-R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Vex_Debug.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>071968d4-9a40-43c4-9111-b31d92007f5c</tstamps>
     </comp>
   </components>
   <libparts>
@@ -443,94 +469,70 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="ESP32-C3-MINI-1-N4" part="ESP32-C3-MINI-1-N4">
-      <fields>
-        <field name="Reference">U</field>
-        <field name="Value">ESP32-C3-MINI-1-N4</field>
-        <field name="Footprint">XCVR_ESP32-C3-MINI-1-N4</field>
-        <field name="PARTREV">v1.0</field>
-        <field name="STANDARD">Manufacturer Recommendations</field>
-        <field name="MAXIMUM_PACKAGE_HEIGHT">2.55mm</field>
-        <field name="MANUFACTURER">Espressif Systems</field>
-      </fields>
-      <pins>
-        <pin num="1" name="GND" type="power_in"/>
-        <pin num="2" name="GND" type="power_in"/>
-        <pin num="3" name="3V3" type="power_in"/>
-        <pin num="4" name="NC" type="no_connect"/>
-        <pin num="5" name="IO2" type="bidirectional"/>
-        <pin num="6" name="IO3" type="bidirectional"/>
-        <pin num="7" name="NC" type="no_connect"/>
-        <pin num="8" name="EN" type="input"/>
-        <pin num="9" name="NC" type="no_connect"/>
-        <pin num="10" name="NC" type="no_connect"/>
-        <pin num="11" name="GND" type="power_in"/>
-        <pin num="12" name="IO0" type="bidirectional"/>
-        <pin num="13" name="IO1" type="bidirectional"/>
-        <pin num="14" name="GND" type="power_in"/>
-        <pin num="15" name="NC" type="no_connect"/>
-        <pin num="16" name="IO10" type="bidirectional"/>
-        <pin num="17" name="NC" type="no_connect"/>
-        <pin num="18" name="IO4" type="bidirectional"/>
-        <pin num="19" name="IO5" type="bidirectional"/>
-        <pin num="20" name="IO6" type="bidirectional"/>
-        <pin num="21" name="IO7" type="bidirectional"/>
-        <pin num="22" name="IO8" type="bidirectional"/>
-        <pin num="23" name="IO9" type="bidirectional"/>
-        <pin num="24" name="NC" type="no_connect"/>
-        <pin num="25" name="NC" type="no_connect"/>
-        <pin num="26" name="IO18" type="bidirectional"/>
-        <pin num="27" name="IO19" type="bidirectional"/>
-        <pin num="28" name="NC" type="no_connect"/>
-        <pin num="29" name="NC" type="no_connect"/>
-        <pin num="30" name="RXD0" type="bidirectional"/>
-        <pin num="31" name="TXD0" type="bidirectional"/>
-        <pin num="32" name="NC" type="no_connect"/>
-        <pin num="33" name="NC" type="no_connect"/>
-        <pin num="34" name="NC" type="no_connect"/>
-        <pin num="35" name="NC" type="no_connect"/>
-        <pin num="36" name="GND" type="power_in"/>
-        <pin num="37" name="GND" type="power_in"/>
-        <pin num="38" name="GND" type="power_in"/>
-        <pin num="39" name="GND" type="power_in"/>
-        <pin num="40" name="GND" type="power_in"/>
-        <pin num="41" name="GND" type="power_in"/>
-        <pin num="42" name="GND" type="power_in"/>
-        <pin num="43" name="GND" type="power_in"/>
-        <pin num="44" name="GND" type="power_in"/>
-        <pin num="45" name="GND" type="power_in"/>
-        <pin num="46" name="GND" type="power_in"/>
-        <pin num="47" name="GND" type="power_in"/>
-        <pin num="48" name="GND" type="power_in"/>
-        <pin num="49_1" name="GND" type="power_in"/>
-        <pin num="49_2" name="GND" type="power_in"/>
-        <pin num="49_3" name="GND" type="power_in"/>
-        <pin num="49_4" name="GND" type="power_in"/>
-        <pin num="49_5" name="GND" type="power_in"/>
-        <pin num="49_6" name="GND" type="power_in"/>
-        <pin num="49_7" name="GND" type="power_in"/>
-        <pin num="49_8" name="GND" type="power_in"/>
-        <pin num="49_9" name="GND" type="power_in"/>
-        <pin num="50" name="GND" type="power_in"/>
-        <pin num="51" name="GND" type="power_in"/>
-        <pin num="52" name="GND" type="power_in"/>
-        <pin num="53" name="GND" type="power_in"/>
-      </pins>
-    </libpart>
-    <libpart lib="Jumper" part="SolderJumper_2_Open">
-      <description>Solder Jumper, 2-pole, open</description>
-      <docs>~</docs>
+    <libpart lib="ESP32-C3-WROOM" part="ESP32-C3-WROOM-02-N4">
       <footprints>
-        <fp>SolderJumper*Open*</fp>
+        <fp>IC18_ESP32-C3-WROOM-02-N4_EXP</fp>
       </footprints>
       <fields>
-        <field name="Reference">JP</field>
-        <field name="Value">SolderJumper_2_Open</field>
-        <field name="Datasheet">~</field>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-C3-WROOM-02-N4</field>
+        <field name="Footprint">IC18_ESP32-C3-WROOM-02-N4_EXP</field>
       </fields>
       <pins>
-        <pin num="1" name="A" type="passive"/>
-        <pin num="2" name="B" type="passive"/>
+        <pin num="1" name="3V3" type="unspecified"/>
+        <pin num="2" name="EN" type="unspecified"/>
+        <pin num="3" name="IO4" type="bidirectional"/>
+        <pin num="4" name="IO5" type="bidirectional"/>
+        <pin num="5" name="IO6" type="bidirectional"/>
+        <pin num="6" name="IO7" type="bidirectional"/>
+        <pin num="7" name="IO8" type="bidirectional"/>
+        <pin num="8" name="IO9" type="bidirectional"/>
+        <pin num="9" name="GND" type="power_in"/>
+        <pin num="10" name="IO10" type="bidirectional"/>
+        <pin num="11" name="RXD" type="unspecified"/>
+        <pin num="12" name="TXD" type="unspecified"/>
+        <pin num="13" name="IO18" type="bidirectional"/>
+        <pin num="14" name="IO19" type="bidirectional"/>
+        <pin num="15" name="IO3" type="bidirectional"/>
+        <pin num="16" name="IO2" type="bidirectional"/>
+        <pin num="17" name="IO1" type="bidirectional"/>
+        <pin num="18" name="IO0" type="bidirectional"/>
+        <pin num="19" name="GND" type="power_in"/>
+        <pin num="20" name="GND" type="power_in"/>
+        <pin num="21" name="GND" type="power_in"/>
+        <pin num="22" name="GND" type="power_in"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="GND" type="power_in"/>
+        <pin num="25" name="GND" type="power_in"/>
+        <pin num="26" name="GND" type="power_in"/>
+        <pin num="27" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="FTDI" part="FT234XD-R">
+      <footprints>
+        <fp>DFN-12_FTD</fp>
+        <fp>DFN-12_FTD-M</fp>
+        <fp>DFN-12_FTD-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">FT234XD-R</field>
+        <field name="Footprint">DFN-12_FTD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="USBDM" type="bidirectional"/>
+        <pin num="2" name="*RESET" type="input"/>
+        <pin num="3" name="3V3OUT" type="output"/>
+        <pin num="4" name="VCC" type="power_in"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="CBUS0" type="bidirectional"/>
+        <pin num="7" name="TXD" type="output"/>
+        <pin num="8" name="*RTS" type="output"/>
+        <pin num="9" name="VCCIO" type="power_in"/>
+        <pin num="10" name="RXD" type="input"/>
+        <pin num="11" name="*CTS" type="input"/>
+        <pin num="12" name="USBDP" type="bidirectional"/>
+        <pin num="13" name="GND" type="power_in"/>
       </pins>
     </libpart>
     <libpart lib="RJ9" part="RJ9">
@@ -581,6 +583,19 @@
         <pin num="3" name="VI" type="power_in"/>
       </pins>
     </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
   </libparts>
   <libraries>
     <library logical="Connector">
@@ -589,11 +604,11 @@
     <library logical="Device">
       <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
     </library>
-    <library logical="ESP32-C3-MINI-1-N4">
-      <uri>/home/ryan/Documents/kicad/Vex_Debug/Parts/ESP32-C3-MINI/ESP32-C3-MINI-1-N4.lib</uri>
+    <library logical="ESP32-C3-WROOM">
+      <uri>/home/ryan/Documents/kicad/Vex_Debug/Parts/ESP32-C3-WROOM/2022-11-13_21-09-14.lib</uri>
     </library>
-    <library logical="Jumper">
-      <uri>/usr/share/kicad/symbols//Jumper.kicad_sym</uri>
+    <library logical="FTDI">
+      <uri>/home/ryan/Documents/kicad/Vex_Debug/Parts/USB-UART Bridge/2022-11-13_21-11-30.lib</uri>
     </library>
     <library logical="RJ9">
       <uri>/home/ryan/Documents/kicad/Vex_Debug/Parts/RJ9/RJ9.kicad_sym</uri>
@@ -604,66 +619,83 @@
     <library logical="Regulator_Linear">
       <uri>/usr/share/kicad/symbols//Regulator_Linear.kicad_sym</uri>
     </library>
+    <library logical="Switch">
+      <uri>/usr/share/kicad/symbols//Switch.kicad_sym</uri>
+    </library>
   </libraries>
   <nets>
     <net code="1" name="+3.3V">
       <node ref="C1" pin="1" pintype="passive"/>
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
       <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="R7" pin="1" pintype="passive"/>
-      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
       <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="U1" pin="3" pinfunction="3V3" pintype="power_in"/>
+      <node ref="U1" pin="1" pinfunction="3V3" pintype="unspecified"/>
       <node ref="U2" pin="2" pinfunction="VO" pintype="power_out"/>
       <node ref="U3" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U4" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U4" pin="9" pinfunction="VCCIO" pintype="power_in"/>
     </net>
-    <net code="2" name="/RJ9_DA">
+    <net code="2" name="/FTDI_RX">
+      <node ref="U1" pin="12" pinfunction="TXD" pintype="unspecified"/>
+      <node ref="U4" pin="10" pinfunction="RXD" pintype="input"/>
+    </net>
+    <net code="3" name="/FTDI_TX">
+      <node ref="U1" pin="11" pinfunction="RXD" pintype="unspecified"/>
+      <node ref="U4" pin="7" pinfunction="TXD" pintype="output"/>
+    </net>
+    <net code="4" name="/RJ9_DA">
       <node ref="CONN1" pin="4" pinfunction="DA" pintype="bidirectional"/>
       <node ref="D2" pin="1" pinfunction="A1" pintype="passive"/>
       <node ref="R1" pin="2" pintype="passive"/>
       <node ref="U3" pin="6" pinfunction="A" pintype="input"/>
     </net>
-    <net code="3" name="/RJ9_DB">
+    <net code="5" name="/RJ9_DB">
       <node ref="CONN1" pin="3" pinfunction="DB" pintype="bidirectional"/>
       <node ref="D1" pin="1" pinfunction="A1" pintype="passive"/>
       <node ref="R1" pin="1" pintype="passive"/>
       <node ref="U3" pin="7" pinfunction="B" pintype="input"/>
     </net>
-    <net code="4" name="/RS485_MODE">
-      <node ref="U1" pin="16" pinfunction="IO10" pintype="bidirectional"/>
+    <net code="6" name="/RS485_MODE">
+      <node ref="U1" pin="10" pinfunction="IO10" pintype="bidirectional"/>
       <node ref="U3" pin="2" pinfunction="RE*" pintype="input"/>
       <node ref="U3" pin="3" pinfunction="DE" pintype="input"/>
     </net>
-    <net code="5" name="/RS485_RX">
-      <node ref="U1" pin="21" pinfunction="IO7" pintype="bidirectional"/>
+    <net code="7" name="/RS485_RX">
+      <node ref="U1" pin="6" pinfunction="IO7" pintype="bidirectional"/>
       <node ref="U3" pin="1" pinfunction="RO" pintype="output"/>
     </net>
-    <net code="6" name="/RS485_TX">
-      <node ref="U1" pin="20" pinfunction="IO6" pintype="bidirectional"/>
+    <net code="8" name="/RS485_TX">
+      <node ref="U1" pin="5" pinfunction="IO6" pintype="bidirectional"/>
       <node ref="U3" pin="4" pinfunction="DI" pintype="input"/>
     </net>
-    <net code="7" name="/STAT_LED">
+    <net code="9" name="/STAT_LED">
       <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="U1" pin="18" pinfunction="IO4" pintype="bidirectional"/>
+      <node ref="U1" pin="3" pinfunction="IO4" pintype="bidirectional"/>
     </net>
-    <net code="8" name="/USB_D+">
+    <net code="10" name="/USB_D+">
       <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
-      <node ref="U1" pin="27" pinfunction="IO19" pintype="bidirectional"/>
+      <node ref="U4" pin="12" pinfunction="USBDP" pintype="bidirectional"/>
     </net>
-    <net code="9" name="/USB_D-">
+    <net code="11" name="/USB_D-">
       <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
-      <node ref="U1" pin="26" pinfunction="IO18" pintype="bidirectional"/>
+      <node ref="U4" pin="1" pinfunction="USBDM" pintype="bidirectional"/>
     </net>
-    <net code="10" name="GND">
+    <net code="12" name="GND">
       <node ref="C1" pin="2" pintype="passive"/>
       <node ref="C2" pin="2" pintype="passive"/>
       <node ref="C3" pin="2" pintype="passive"/>
       <node ref="C4" pin="2" pintype="passive"/>
       <node ref="C5" pin="2" pintype="passive"/>
       <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
       <node ref="CONN1" pin="2" pinfunction="GND" pintype="power_in"/>
       <node ref="D1" pin="2" pinfunction="A2" pintype="passive"/>
       <node ref="D2" pin="2" pinfunction="A2" pintype="passive"/>
@@ -671,53 +703,35 @@
       <node ref="J1" pin="A12" pinfunction="GND" pintype="passive"/>
       <node ref="J1" pin="B1" pinfunction="GND" pintype="passive"/>
       <node ref="J1" pin="B12" pinfunction="GND" pintype="passive"/>
-      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="JP2" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="R2" pin="2" pintype="passive"/>
       <node ref="R3" pin="2" pintype="passive"/>
       <node ref="R4" pin="2" pintype="passive"/>
       <node ref="R5" pin="2" pintype="passive"/>
       <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="11" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="14" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="36" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="37" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="38" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="39" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="40" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="41" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="42" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="43" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="44" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="45" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="46" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="47" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="48" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="49_1" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="49_2" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="49_3" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="49_4" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="49_5" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="49_6" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="49_7" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="49_8" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="49_9" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="50" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="51" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="52" pinfunction="GND" pintype="power_in"/>
-      <node ref="U1" pin="53" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="19" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="20" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="21" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="22" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="23" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="24" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="25" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="26" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="27" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="9" pinfunction="GND" pintype="power_in"/>
       <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
       <node ref="U3" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="5" pinfunction="GND" pintype="power_in"/>
     </net>
-    <net code="11" name="Net-(C4-Pad1)">
+    <net code="13" name="Net-(C4-Pad1)">
       <node ref="C4" pin="1" pintype="passive"/>
       <node ref="CONN1" pin="1" pinfunction="+12V" pintype="power_in"/>
       <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="12" name="Net-(C5-Pad1)">
+    <net code="14" name="Net-(C5-Pad1)">
       <node ref="C5" pin="1" pintype="passive"/>
       <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="J1" pin="A4" pinfunction="VBUS" pintype="passive"/>
@@ -725,114 +739,89 @@
       <node ref="J1" pin="B4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J1" pin="B9" pinfunction="VBUS" pintype="passive"/>
     </net>
-    <net code="13" name="Net-(C6-Pad1)">
+    <net code="15" name="Net-(C6-Pad1)">
       <node ref="C6" pin="1" pintype="passive"/>
-      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="R7" pin="2" pintype="passive"/>
-      <node ref="U1" pin="8" pinfunction="EN" pintype="input"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="EN" pintype="unspecified"/>
     </net>
-    <net code="14" name="Net-(D3-Pad1)">
+    <net code="16" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="*RESET" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(D3-Pad1)">
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R5" pin="1" pintype="passive"/>
     </net>
-    <net code="15" name="Net-(D4-Pad1)">
+    <net code="18" name="Net-(D4-Pad1)">
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R6" pin="1" pintype="passive"/>
     </net>
-    <net code="16" name="Net-(D5-Pad1)">
+    <net code="19" name="Net-(D5-Pad1)">
       <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U2" pin="3" pinfunction="VI" pintype="power_in"/>
     </net>
-    <net code="17" name="Net-(J1-PadA5)">
+    <net code="20" name="Net-(J1-PadA5)">
       <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
       <node ref="R3" pin="1" pintype="passive"/>
     </net>
-    <net code="18" name="Net-(J1-PadB5)">
+    <net code="21" name="Net-(J1-PadB5)">
       <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
       <node ref="R4" pin="1" pintype="passive"/>
     </net>
-    <net code="19" name="Net-(J1-PadS1)">
+    <net code="22" name="Net-(J1-PadS1)">
       <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
       <node ref="R2" pin="1" pintype="passive"/>
     </net>
-    <net code="20" name="Net-(JP2-Pad1)">
-      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="U1" pin="23" pinfunction="IO9" pintype="bidirectional"/>
+    <net code="23" name="Net-(R8-Pad1)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="IO2" pintype="bidirectional"/>
     </net>
-    <net code="21" name="Net-(R8-Pad2)">
-      <node ref="R8" pin="2" pintype="passive"/>
-      <node ref="U1" pin="5" pinfunction="IO2" pintype="bidirectional"/>
+    <net code="24" name="Net-(SW2-Pad2)">
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="IO9" pintype="bidirectional"/>
     </net>
-    <net code="22" name="unconnected-(J1-PadA8)">
+    <net code="25" name="unconnected-(J1-PadA8)">
       <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="23" name="unconnected-(J1-PadB8)">
+    <net code="26" name="unconnected-(J1-PadB8)">
       <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="24" name="unconnected-(U1-Pad4)">
-      <node ref="U1" pin="4" pinfunction="NC" pintype="no_connect"/>
+    <net code="27" name="unconnected-(U1-Pad4)">
+      <node ref="U1" pin="4" pinfunction="IO5" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="25" name="unconnected-(U1-Pad6)">
-      <node ref="U1" pin="6" pinfunction="IO3" pintype="bidirectional+no_connect"/>
+    <net code="28" name="unconnected-(U1-Pad7)">
+      <node ref="U1" pin="7" pinfunction="IO8" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="26" name="unconnected-(U1-Pad7)">
-      <node ref="U1" pin="7" pinfunction="NC" pintype="no_connect"/>
+    <net code="29" name="unconnected-(U1-Pad13)">
+      <node ref="U1" pin="13" pinfunction="IO18" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="27" name="unconnected-(U1-Pad9)">
-      <node ref="U1" pin="9" pinfunction="NC" pintype="no_connect"/>
-    </net>
-    <net code="28" name="unconnected-(U1-Pad10)">
-      <node ref="U1" pin="10" pinfunction="NC" pintype="no_connect"/>
-    </net>
-    <net code="29" name="unconnected-(U1-Pad12)">
-      <node ref="U1" pin="12" pinfunction="IO0" pintype="bidirectional+no_connect"/>
-    </net>
-    <net code="30" name="unconnected-(U1-Pad13)">
-      <node ref="U1" pin="13" pinfunction="IO1" pintype="bidirectional+no_connect"/>
+    <net code="30" name="unconnected-(U1-Pad14)">
+      <node ref="U1" pin="14" pinfunction="IO19" pintype="bidirectional+no_connect"/>
     </net>
     <net code="31" name="unconnected-(U1-Pad15)">
-      <node ref="U1" pin="15" pinfunction="NC" pintype="no_connect"/>
+      <node ref="U1" pin="15" pinfunction="IO3" pintype="bidirectional+no_connect"/>
     </net>
     <net code="32" name="unconnected-(U1-Pad17)">
-      <node ref="U1" pin="17" pinfunction="NC" pintype="no_connect"/>
+      <node ref="U1" pin="17" pinfunction="IO1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="33" name="unconnected-(U1-Pad19)">
-      <node ref="U1" pin="19" pinfunction="IO5" pintype="bidirectional+no_connect"/>
+    <net code="33" name="unconnected-(U1-Pad18)">
+      <node ref="U1" pin="18" pinfunction="IO0" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="34" name="unconnected-(U1-Pad22)">
-      <node ref="U1" pin="22" pinfunction="IO8" pintype="bidirectional+no_connect"/>
+    <net code="34" name="unconnected-(U4-Pad3)">
+      <node ref="U4" pin="3" pinfunction="3V3OUT" pintype="output+no_connect"/>
     </net>
-    <net code="35" name="unconnected-(U1-Pad24)">
-      <node ref="U1" pin="24" pinfunction="NC" pintype="no_connect"/>
+    <net code="35" name="unconnected-(U4-Pad6)">
+      <node ref="U4" pin="6" pinfunction="CBUS0" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="36" name="unconnected-(U1-Pad25)">
-      <node ref="U1" pin="25" pinfunction="NC" pintype="no_connect"/>
+    <net code="36" name="unconnected-(U4-Pad8)">
+      <node ref="U4" pin="8" pinfunction="*RTS" pintype="output+no_connect"/>
     </net>
-    <net code="37" name="unconnected-(U1-Pad28)">
-      <node ref="U1" pin="28" pinfunction="NC" pintype="no_connect"/>
-    </net>
-    <net code="38" name="unconnected-(U1-Pad29)">
-      <node ref="U1" pin="29" pinfunction="NC" pintype="no_connect"/>
-    </net>
-    <net code="39" name="unconnected-(U1-Pad30)">
-      <node ref="U1" pin="30" pinfunction="RXD0" pintype="bidirectional+no_connect"/>
-    </net>
-    <net code="40" name="unconnected-(U1-Pad31)">
-      <node ref="U1" pin="31" pinfunction="TXD0" pintype="bidirectional+no_connect"/>
-    </net>
-    <net code="41" name="unconnected-(U1-Pad32)">
-      <node ref="U1" pin="32" pinfunction="NC" pintype="no_connect"/>
-    </net>
-    <net code="42" name="unconnected-(U1-Pad33)">
-      <node ref="U1" pin="33" pinfunction="NC" pintype="no_connect"/>
-    </net>
-    <net code="43" name="unconnected-(U1-Pad34)">
-      <node ref="U1" pin="34" pinfunction="NC" pintype="no_connect"/>
-    </net>
-    <net code="44" name="unconnected-(U1-Pad35)">
-      <node ref="U1" pin="35" pinfunction="NC" pintype="no_connect"/>
+    <net code="37" name="unconnected-(U4-Pad11)">
+      <node ref="U4" pin="11" pinfunction="*CTS" pintype="input+no_connect"/>
     </net>
   </nets>
 </export>

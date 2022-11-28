@@ -2,4 +2,6 @@
   (lib (name "ESP32-C3-MINI")(type "KiCad")(uri "${KIPRJMOD}/Parts/ESP32-C3-MINI")(options "")(descr ""))
   (lib (name "RJ9")(type "KiCad")(uri "${KIPRJMOD}/Parts/RJ9/RJ9.pretty")(options "")(descr ""))
   (lib (name "RS485_tran")(type "KiCad")(uri "${KIPRJMOD}/Parts/RS485_tran")(options "")(descr ""))
+  (lib (name "ESP32-C3-WROOM")(type "KiCad")(uri "${KIPRJMOD}/Parts/ESP32-C3-WROOM")(options "")(descr ""))
+  (lib (name "USB-UART Bridge")(type "KiCad")(uri "${KIPRJMOD}/Parts/USB-UART Bridge")(options "")(descr ""))
 )

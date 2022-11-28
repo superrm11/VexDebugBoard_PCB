@@ -2,4 +2,6 @@
   (lib (name "ESP32-C3-MINI-1-N4")(type "Legacy")(uri "${KIPRJMOD}/Parts/ESP32-C3-MINI/ESP32-C3-MINI-1-N4.lib")(options "")(descr ""))
   (lib (name "RJ9")(type "KiCad")(uri "${KIPRJMOD}/Parts/RJ9/RJ9.kicad_sym")(options "")(descr ""))
   (lib (name "RS485_Transceiver")(type "Legacy")(uri "${KIPRJMOD}/Parts/RS485_tran/ADM3493ARZ.lib")(options "")(descr ""))
+  (lib (name "ESP32-C3-WROOM")(type "Legacy")(uri "${KIPRJMOD}/Parts/ESP32-C3-WROOM/2022-11-13_21-09-14.lib")(options "")(descr ""))
+  (lib (name "FTDI")(type "Legacy")(uri "${KIPRJMOD}/Parts/USB-UART Bridge/2022-11-13_21-11-30.lib")(options "")(descr ""))
 )
